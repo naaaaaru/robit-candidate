@@ -1,0 +1,13 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2024:22:LL_USART_EnableIT_IDLE	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2316:22:LL_USART_EnableDMAReq_RX	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2426:22:LL_USART_TransmitData8	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:494:22:LL_DMA_EnableStream	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:968:22:LL_DMA_SetDataLength	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:1436:22:LL_DMA_SetMemoryAddress	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:1459:22:LL_DMA_SetPeriphAddress	1
+../Core/Src/main.c:71:5:main	4
+../Core/Src/main.c:141:6:SystemClock_Config	4
+../Core/Src/main.c:192:6:writePacket	3
+../Core/Src/main.c:201:6:MX28_SetGoalPosition	2
+../Core/Src/main.c:230:6:Error_Handler	1
